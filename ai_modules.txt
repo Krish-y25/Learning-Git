@@ -1,0 +1,2 @@
+Adding claude fable 5.1 as an agent
+changed model to GPT-6 Astra
