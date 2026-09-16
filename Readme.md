@@ -1,6 +1,6 @@
 # Learning Git
 
-## This repository is for my personal learning of Git and GitHub.
+### This repository is for my personal learning of Git and GitHub.
 
 #### Clone the repository using the following command:
 
